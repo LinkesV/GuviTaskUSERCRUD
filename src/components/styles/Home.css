@@ -1,0 +1,5 @@
+.userbox{
+    display: flex;
+    position: relative;
+    width: 80vw;
+}
